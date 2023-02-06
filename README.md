@@ -1,1 +1,1 @@
-# Dynamic_Pricing_Revenue_Management
+# Dynamic Pricing Revenue Management
